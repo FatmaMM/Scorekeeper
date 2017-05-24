@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Score keeper</string>
+    <string name="teama">Team A</string>
+    <string name="teamb">Team B</string>
+</resources>
