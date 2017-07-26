@@ -11,6 +11,8 @@ With Score Keeper, I will be practicing this skill set, with particular focus on
     2- Updating views
     3- Properly scoping variables
     4- Finding views by their ID
+    
+# project will be evaluated using the [Score Keeper project rubric](https://review.udacity.com/#!/rubrics/157/view)
 
 # Screenshots
 
